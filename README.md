@@ -9,10 +9,12 @@ Matlab: version R2021b
 R: R version 4.1.2
 R studio: RStudio version 2021.09.2+382
 
-## installation
+# Installation
 Matlab was installed via matlab offical website: https://www.mathworks.com/products/matlab.html
 R was installed via R office website: https://www.r-project.org/
 R studio was installed via https://posit.co/download/rstudio-desktop/
+
+# Instructions 
 
 #### Distortion analysis
   - The code is from previous publication (Expansion microscopy of C. elegans: https://doi.org/10.7554/eLife.46249)
