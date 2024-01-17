@@ -4,7 +4,7 @@ This repository contains the code used for analyzing umExM data
 The final version of the code will be shared here upon publication.
 
 Distortion analysis
-  - The code is from previous publication (Expansion microscopy of C. elegans: https://doi.org/10.7554/eLife.46249)
+  - The code is from previous publication (Expansion microscopy of C. elegans: https://doi.org/10.7554/eLife.46249).
 Colocalization analysis
   - 
 unpaired t-test
