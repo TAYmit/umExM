@@ -23,7 +23,7 @@ R studio was installed via https://posit.co/download/rstudio-desktop/
 #### Countinuity analysis
   - The code is in the folder called Continuity 
 #### Unpaired t-test
-  - Analysis was carried with t.test(x=data_controlgroup, y=data_experimentalgroup, alternative = "two.sided", paired = FALSE) with RStudio 2021.09.2+382 with R version 4.1.2
+  - Analysis was carried with built-in function "t.test". Specifically, following code was used: t.test(x=data_controlgroup, y=data_experimentalgroup, alternative = "two.sided", paired = FALSE) with RStudio 2021.09.2+382 with R version 4.1.2
 #### Deconvolution
   - Deconvolution was performed with a software provided in https://github.com/WeisongZhao/Sparse-SIM
 #### SACD 
