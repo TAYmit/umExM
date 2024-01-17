@@ -4,11 +4,15 @@ This repository contains the code used for analyzing umExM data
 The final version of the code will be shared here upon publication.
 
 # Environment
-Matlab: version R2021b; installed via matlab offical website: https://www.mathworks.com/products/matlab.html
-R: R version 4.1.2; installed via R office website: https://www.r-project.org/
-R studio: RStudio version 2021.09.2+382; installed via https://posit.co/download/rstudio-desktop/
-
 The code was implemented and ran through Intel(R) Xeon(R) CPU E5-1650 v4 @ 3.60GHz   3.60 GHz, Windows 10
+Matlab: version R2021b
+R: R version 4.1.2
+R studio: RStudio version 2021.09.2+382
+
+## installation
+Matlab was installed via matlab offical website: https://www.mathworks.com/products/matlab.html
+R was installed via R office website: https://www.r-project.org/
+R studio was installed via https://posit.co/download/rstudio-desktop/
 
 #### Distortion analysis
   - The code is from previous publication (Expansion microscopy of C. elegans: https://doi.org/10.7554/eLife.46249)
