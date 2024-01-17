@@ -22,4 +22,4 @@ for(t in 1:length(path)){
   all_count[t]=mean(count)
 }
 
-print(mean(1-all_count) # continuity)
+print(mean(1-all_count)) # continuity
