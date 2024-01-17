@@ -1,2 +1,2 @@
 # umExM
-code used for umExM
+This repository contains the code used for analyzing umExM data
