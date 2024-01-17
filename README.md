@@ -21,7 +21,7 @@ R studio was installed via https://posit.co/download/rstudio-desktop/
 #### Distortion analysis
   - The code is from previous publication (Expansion microscopy of C. elegans: https://doi.org/10.7554/eLife.46249)
 #### Countinuity analysis
-  - The code is in the folder called Countinuity 
+  - The code is in the folder called Continuity 
 #### Unpaired t-test
   - Analysis was carried with t.test(x=data_controlgroup, y=data_experimentalgroup, alternative = "two.sided", paired = FALSE) with RStudio 2021.09.2+382 with R version 4.1.2
 #### Deconvolution
