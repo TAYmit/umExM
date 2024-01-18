@@ -11,11 +11,11 @@ R: R version 4.1.2;
 R studio: RStudio version 2021.09.2+382
 
 # Installation
-Matlab was installed via matlab offical website: https://www.mathworks.com/products/matlab.html
+Matlab was downloaded and installed from matlab offical website: https://www.mathworks.com/products/matlab.html
 
-R was installed via R office website: https://www.r-project.org/
+R was downloaded and installed from R office website: https://www.r-project.org/
 
-R studio was installed via https://posit.co/download/rstudio-desktop/
+R studio was downloaded and installed from https://posit.co/download/rstudio-desktop/
 
 # Instructions 
 
