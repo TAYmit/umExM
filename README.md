@@ -28,8 +28,11 @@ R studio was installed via https://posit.co/download/rstudio-desktop/
 #### Unpaired t-test
   - Analysis was carried with built-in function "t.test" in R. Specifically, following code was used: t.test(x=data_controlgroup, y=data_experimentalgroup, alternative = "two.sided", paired = FALSE) with RStudio 2021.09.2+382 with R version 4.1.2
 #### Deconvolution
-  - Deconvolution was performed with a software provided in https://github.com/WeisongZhao/Sparse-SIM
+  - Deconvolution was performed with software provided in https://github.com/WeisongZhao/Sparse-SIM
+  - Detailed instructions can be also found at https://github.com/WeisongZhao/Sparse-SIM
 #### SACD 
-  - SACD was performed with a software provided in https://github.com/WeisongZhao/SACD
+  - SACD was performed with software provided in https://github.com/WeisongZhao/SACD
+  - Detailed instructions can be also found at https://github.com/WeisongZhao/SACD
 #### FRC resolution 
-  - FRC resolution analysis was performed with a software provided in https://github.com/superresolusian/NanoJ-SQUIRREL
+  - The analysis of FRC resolution utilized software available at  https://github.com/superresolusian/NanoJ-SQUIRREL
+  - Detailed instructions can be also found at https://github.com/superresolusian/NanoJ-SQUIRREL
