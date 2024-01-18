@@ -19,7 +19,7 @@ R studio was installed via https://posit.co/download/rstudio-desktop/
 # Instructions 
 
 #### Distortion analysis
-  - The code is from previous publication (Expansion microscopy of C. elegans: https://doi.org/10.7554/eLife.46249)
+  - The code is from previous publication (Expansion microscopy of C. elegans: https://doi.org/10.7554/eLife.46249). It is in The code is in the folder called distortion 
 #### Countinuity analysis
   - The code is in the folder called Continuity 
 #### Unpaired t-test
